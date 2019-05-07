@@ -1,0 +1,3 @@
+[submodule "app"]
+	path = app
+	url = git@github.com:jorguerra/experiencia47.git
